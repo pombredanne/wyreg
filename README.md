@@ -1,5 +1,4 @@
-# wyreg
-fast randomized large scale linear regression
+# wyreg: fast randomized large scale linear regression
 ```
 Y=XB		//the conventional regression setting
 W=Guasian	//random projection matrix
