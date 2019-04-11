@@ -10,8 +10,12 @@ Y=XWb => B=Wb	//get the regression coefficients back
 explaination: this model can be think as a single hidden layer neural network with linear activation:
 
 XXXXXXXXXXXXXX
+
  \\\\\|//////
+ 
     zzzzz
+    
      \|/
+     
       Y
       
